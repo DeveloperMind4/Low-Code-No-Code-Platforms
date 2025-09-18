@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/mintahandrews/awesome-lowcode-nocode/blob/main/assets/banner.png" alt="Low-Code/No-Code Platforms Banner" width="100%">
+  <img src="https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/blob/main/images/image%20(4).png" alt="Low-Code/No-Code Platforms Banner" width="100%">
 </div>
 
 # 🚀 Awesome Low-Code/No-Code Platforms
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/mintahandrews/awesome-lowcode-nocode?style=social)](https://github.com/mintahandrews/awesome-lowcode-nocode/stargazers)
-[![GitHub contributors](https://img.shields.io/github/contributors/mintahandrews/awesome-lowcode-nocode.svg)](https://github.com/mintahandrews/awesome-lowcode-nocode/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/Mintahandrews/Low-Code-No-Code-Platforms?style=social)](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/stargazers)
+[![GitHub contributors](https://img.shields.io/github/contributors/Mintahandrews/Low-Code-No-Code-Platforms.svg)](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

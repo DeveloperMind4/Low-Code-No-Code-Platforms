@@ -174,8 +174,8 @@ Before adding a platform, please:
 # 1. Fork the repository (via GitHub web interface)
 
 # 2. Clone your fork
-git clone https://github.com/YOUR-USERNAME/awesome-lowcode-nocode.git
-cd awesome-lowcode-nocode
+git clone https://github.com/YOUR-USERNAME/Low-Code-No-Code-Platforms.git
+cd Low-Code-No-Code-Platforms
 
 # 3. Create a feature branch
 git checkout -b add-platform-name
