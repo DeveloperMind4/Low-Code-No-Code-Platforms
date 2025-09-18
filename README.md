@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Mintahandrews/Low-Code-No-Code-Platforms?style=social)](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/stargazers)
 [![GitHub contributors](https://img.shields.io/github/contributors/Mintahandrews/Low-Code-No-Code-Platforms.svg)](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Forks](https://img.shields.io/github/forks/Mintahandrews/Low-Code-No-Code-Platforms?style=social)](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/network/members)
 [![Issues](https://img.shields.io/github/issues/Mintahandrews/Low-Code-No-Code-Platforms)](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/issues)
