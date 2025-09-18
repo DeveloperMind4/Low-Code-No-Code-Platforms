@@ -14,11 +14,11 @@
 
 <div align="center">
 
-[🎯 **What's Low-Code/No-Code?**](#what-is-low-codeno-code) •
-[🌟 **Open Source**](#open-source-platforms) •
-[💼 **Commercial**](#commercial-platforms) •
-[📊 **Comparison**](#comparison-tables) •
-[🤝 **Contributing**](#contributing)
+[🎯 **What's Low-Code/No-Code?**](#-what-is-low-codeno-code) • 
+[🌟 **Open Source**](#-open-source-platforms) • 
+[💼 **Commercial**](#-commercial-platforms) • 
+[📊 **Comparison**](#-comparison-tables) • 
+[🤝 **Contributing**](#-contributing)
 
 </div>
 
@@ -57,27 +57,25 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 
 ## 📖 Table of Contents
 
-- [🌟 Open Source Platforms](#open-source-platforms)
+- [🌟 Open Source Platforms](#-open-source-platforms)
+  - [🎨 Visual Development](#-visual-development)
+  - [🔄 Workflow Automation](#-workflow-automation)
+  - [🗄️ Database & Backend](#️-database--backend)
+  - [🖼️ Frontend Builders](#️-frontend-builders)
+  - [📱 Mobile Development](#-mobile-development)
+  - [🤖 AI/ML Platforms](#-aiml-platforms)
 
-  - [🎨 Visual Development](#visual-development)
-  - [🔄 Workflow Automation](#workflow-automation)
-  - [🗄️ Database & Backend](#database--backend)
-  - [🖼️ Frontend Builders](#frontend-builders)
-  - [📱 Mobile Development](#mobile-development)
-  - [🤖 AI/ML Platforms](#aiml-platforms)
+- [💼 Commercial Platforms](#-commercial-platforms)
+  - [🏢 Enterprise Solutions](#-enterprise-solutions)
+  - [🚀 Rapid Development](#-rapid-development)
+  - [🔗 Integration Platforms](#-integration-platforms)
+  - [📊 Data & Analytics](#-data--analytics)
 
-- [💼 Commercial Platforms](#commercial-platforms)
-
-  - [🏢 Enterprise Solutions](#enterprise-solutions)
-  - [🚀 Rapid Development](#rapid-development)
-  - [🔗 Integration Platforms](#integration-platforms)
-  - [📊 Data & Analytics](#data--analytics)
-
-- [📊 Comparison Tables](#comparison-tables)
-- [🎓 Learning Resources](#learning-resources)
-- [🏆 Use Cases & Success Stories](#use-cases--success-stories)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
+- [📊 Comparison Tables](#-comparison-tables)
+- [🎓 Learning Resources](#-learning-resources)
+- [🏆 Use Cases & Success Stories](#-use-cases--success-stories)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
