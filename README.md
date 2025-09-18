@@ -7,17 +7,20 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/Mintahandrews/Low-Code-No-Code-Platforms?style=social)](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/stargazers)
 [![GitHub contributors](https://img.shields.io/github/contributors/Mintahandrews/Low-Code-No-Code-Platforms.svg)](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Forks](https://img.shields.io/github/forks/Mintahandrews/Low-Code-No-Code-Platforms?style=social)](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/network/members)
+[![Issues](https://img.shields.io/github/issues/Mintahandrews/Low-Code-No-Code-Platforms)](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Mintahandrews/Low-Code-No-Code-Platforms)](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms/commits/main)
 
 > A comprehensive, curated list of low-code and no-code platforms that are revolutionizing how we build applications, automate workflows, and create digital solutions.
 
 <div align="center">
 
-[🎯 **What's Low-Code/No-Code?**](#-what-is-low-codeno-code) • 
-[🌟 **Open Source**](#-open-source-platforms) • 
-[💼 **Commercial**](#-commercial-platforms) • 
-[📊 **Comparison**](#-comparison-tables) • 
+[🎯 **What's Low-Code/No-Code?**](#-what-is-low-codeno-code) •
+[🌟 **Open Source**](#-open-source-platforms) •
+[💼 **Commercial**](#-commercial-platforms) •
+[📊 **Comparison**](#-comparison-tables) •
 [🤝 **Contributing**](#-contributing)
 
 </div>
@@ -58,6 +61,7 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 ## 📖 Table of Contents
 
 - [🌟 Open Source Platforms](#-open-source-platforms)
+
   - [🎨 Visual Development](#-visual-development)
   - [🔄 Workflow Automation](#-workflow-automation)
   - [🗄️ Database & Backend](#️-database--backend)
@@ -66,6 +70,7 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
   - [🤖 AI/ML Platforms](#-aiml-platforms)
 
 - [💼 Commercial Platforms](#-commercial-platforms)
+
   - [🏢 Enterprise Solutions](#-enterprise-solutions)
   - [🚀 Rapid Development](#-rapid-development)
   - [🔗 Integration Platforms](#-integration-platforms)
