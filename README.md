@@ -17,11 +17,11 @@
 
 <div align="center">
 
-[🎯 **What's Low-Code/No-Code?**](#-what-is-low-codeno-code) •
-[🌟 **Open Source**](#-open-source-platforms) •
-[💼 **Commercial**](#-commercial-platforms) •
-[📊 **Comparison**](#-comparison-tables) •
-[🤝 **Contributing**](#-contributing)
+[🎯 **What's Low-Code/No-Code?**](#what-is-low-code-no-code) •
+[🌟 **Open Source**](#open-source-platforms) •
+[💼 **Commercial**](#commercial-platforms) •
+[📊 **Comparison**](#comparison-tables) •
+[🤝 **Contributing**](#contributing)
 
 </div>
 
@@ -45,6 +45,8 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 - Pre-built components and templates
 - Target business users and citizen developers
 
+---
+
 ### 📈 **Why Low-Code/No-Code?**
 
 ```
@@ -60,27 +62,27 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 
 ## 📖 Table of Contents
 
-- [🌟 Open Source Platforms](#-open-source-platforms)
+- [🌟 Open Source Platforms](#open-source-platforms)
 
-  - [🎨 Visual Development](#-visual-development)
-  - [🔄 Workflow Automation](#-workflow-automation)
-  - [🗄️ Database & Backend](#️-database--backend)
-  - [🖼️ Frontend Builders](#️-frontend-builders)
-  - [📱 Mobile Development](#-mobile-development)
-  - [🤖 AI/ML Platforms](#-aiml-platforms)
+  - [🎨 Visual Development](#visual-development)
+  - [🔄 Workflow Automation](#workflow-automation)
+  - [🗄️ Database & Backend](#database--backend)
+  - [🖼️ Frontend Builders](#frontend-builders)
+  - [📱 Mobile Development](#mobile-development)
+  - [🤖 AI/ML Platforms](#aiml-platforms)
 
-- [💼 Commercial Platforms](#-commercial-platforms)
+- [💼 Commercial Platforms](#commercial-platforms)
 
-  - [🏢 Enterprise Solutions](#-enterprise-solutions)
-  - [🚀 Rapid Development](#-rapid-development)
-  - [🔗 Integration Platforms](#-integration-platforms)
-  - [📊 Data & Analytics](#-data--analytics)
+  - [🏢 Enterprise Solutions](#enterprise-solutions)
+  - [🚀 Rapid Development](#rapid-development)
+  - [🔗 Integration Platforms](#integration-platforms)
+  - [📊 Data & Analytics](#data--analytics)
 
-- [📊 Comparison Tables](#-comparison-tables)
-- [🎓 Learning Resources](#-learning-resources)
-- [🏆 Use Cases & Success Stories](#-use-cases--success-stories)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+- [📊 Comparison Tables](#comparison-tables)
+- [🎓 Learning Resources](#learning-resources)
+- [🏆 Use Cases & Success Stories](#use-cases--success-stories)
+- [🤝 Contributing](#contributing)
+- [📄 License](#license)
 
 ---
 
@@ -201,6 +203,54 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 - Storage & CDN
 
 **Best For:** Full-stack applications, real-time apps, MVP development
+
+---
+
+#### [NocoDB](https://github.com/nocodb/nocodb) ⭐ 57.4k
+
+> The open-source Airtable alternative that turns any database into a smart spreadsheet UI.
+
+**Key Features:**
+
+- Auto-generated REST APIs and GUI for existing databases
+- Spreadsheet-like views (grid, Kanban, calendar, form)
+- Self-host or run in the cloud (Docker/Kubernetes)
+- Extensible with plugins and integrations
+- Active community, documentation, and Discord
+
+**Best For:** Teams wanting an open-source Airtable replacement and self-hosted database UIs
+
+---
+
+#### [Baserow](https://github.com/baserow/baserow)
+
+> Open-source no-code database and collaborative spreadsheet for teams.
+
+**Key Features:**
+
+- Visual table editor and customizable field types
+- Collaboration and permission controls
+- Self-hosting and cloud tiers
+- API access and plugin system
+- Integrations with common tools
+
+**Best For:** Teams that need an open, self-hosted alternative to SaaS spreadsheet-databases
+
+---
+
+#### [Appwrite](https://github.com/appwrite/appwrite) ⭐ 52.8k
+
+> End-to-end open-source backend server for Web, Mobile, and Flutter applications.
+
+**Key Features:**
+
+- Self-hosted backend services (auth, database, storage, functions)
+- SDKs for many platforms and languages
+- Cloud and Appwrite Cloud hosting options
+- Realtime APIs and serverless functions
+- Strong developer experience and docs
+
+**Best For:** Developers who want a self-hosted, full-featured backend alternative to Firebase
 
 ---
 
@@ -360,6 +410,23 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 
 ---
 
+#### Superblocks
+
+> Platform for building secure internal apps and AI-assisted app generation for enterprises.
+
+**Key Features:**
+
+- Visual app builder with React extensibility
+- AI agent (Clark) for generating internal apps and boilerplate
+- VPC/on-prem agent for data residency and security
+- RBAC, audit logs, and governance for enterprise use
+- Integrations with Snowflake, Databricks, Postgres, and more
+
+**Pricing:** Contact sales
+**Best For:** Enterprises building governed internal applications and dashboards
+
+---
+
 ### 🚀 Rapid Development
 
 #### Retool
@@ -413,6 +480,179 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 
 ---
 
+#### Voiceflow
+
+> Visual platform for designing, testing, and deploying conversational AI agents (voice and chat).
+
+**Key Features:**
+
+- Visual conversation builder and simulator
+- Enterprise integrations and observability
+- Support for telephony and chat channels
+- Templates, community resources, and expert marketplace
+- SOC 2/GDPR compliance options for enterprise
+
+**Pricing:** Free tier; paid and enterprise plans
+**Best For:** Teams building voice or chat agents for customer support and contact centers
+
+---
+
+#### Pory
+
+> No-code builder for creating custom portals powered by Airtable data.
+
+**Key Features:**
+
+- Portal templates for communities, customers, and suppliers
+- Airtable-backed data model and membership features
+- Help center, examples, and expert marketplace
+- Fast prototyping and publishing
+
+**Pricing:** Free tier; paid plans for advanced features
+**Best For:** Makers building Airtable-powered portals without custom development
+
+---
+
+#### Stacker
+
+> Build internal apps and portals from spreadsheets and databases with a visual, component-driven builder.
+
+**Key Features:**
+
+- Visual app builder that connects to Airtable, Google Sheets, and SQL databases
+- Role-based portals, permissions, and enterprise security
+- Templates for customer portals, partner portals, and internal tools
+
+**Best For:** fast internal portals and self-serve customer/partner apps
+
+---
+
+#### Typeform
+
+> Beautiful conversational forms, surveys, and quizzes designed to increase response rates and collect richer feedback.
+
+**Key Features:**
+
+- Highly customizable form design and templates
+- AI-assisted insights, analytics, and integrations with 300+ apps
+- Embeds, APIs, and enterprise controls
+
+**Best For:** user-focused surveys, lead capture, and polished data collection
+
+---
+
+#### Formstack
+
+> No-code forms, document generation, eSignature, and workflow automation for businesses and enterprises.
+
+**Key Features:**
+
+- Advanced form builder and templates
+- Document generation and eSign workflows
+- Enterprise integrations and automation builders
+
+**Best For:** enterprise-grade forms + automated workflows and document generation
+
+---
+
+#### Coda
+
+> An all-in-one doc + app platform where tables, buttons, and automations let teams build lightweight apps inside documents.
+
+**Key Features:**
+
+- Rich document building with tables and automation
+- Packs (integrations) and AI-assisted features
+- Collaborative templates and team hubs
+
+**Best For:** team-driven docs that behave like apps and internal workflows
+
+---
+
+#### Unqork
+
+> Enterprise no-code platform focused on regulated industries to modernize legacy systems without writing code.
+
+**Key Features:**
+
+- Enterprise-grade security and compliance
+- Industry-specific templates for finance, insurance, and government
+- Large-scale application modeling and deployment
+
+**Best For:** large enterprises needing compliant, no-code application modernization
+
+---
+
+#### Stackbit
+
+> Compose, preview, and deploy Jamstack and static sites with an integrated content+deploy workflow.
+
+**Key Features:**
+
+- Visual site composition and templates
+- Integrations with headless CMS and hosting providers
+- Instant preview links and deploy pipelines
+
+**Best For:** shipping static/Jamstack websites and landing pages quickly
+
+---
+
+#### Formidable Forms
+
+> A powerful WordPress form plugin for building complex forms, views, calculators, and app-like dashboards inside WordPress.
+
+**Key Features:**
+
+- Drag-and-drop form builder and advanced field types
+- Integrated Views to display submission data as lists, directories, and dashboards
+- Add-ons for payments, integration, and reporting
+
+**Best For:** WordPress-driven sites that need forms + app-style data views
+
+---
+
+#### Outseta
+
+> An all-in-one membership operating system combining auth, CRM, email, payments, and support tools for creators and SaaS builders.
+
+**Key Features:**
+
+- Integrated CRM, subscriptions/payments, and email automation
+- Auth and gated content embeddable in your site
+- Simple pricing and fast setup for early-stage companies
+
+**Best For:** startups and creators building membership/SaaS businesses with minimal ops
+
+---
+
+#### Typebot
+
+> No-code conversational builder for multichannel chatbots with reusable blocks, analytics, and integrations (OpenAI, Google Sheets, Zapier).
+
+**Key Features:**
+
+- Block-based chat editor and multichannel deployment
+- Analytics, templates, and exportable data
+- Open-source roots with developer-friendly APIs
+
+**Best For:** marketing & support chatbots that need fast multichannel deployment
+
+---
+
+#### Netlify
+
+> Modern platform for deploying and hosting web apps and static sites with built-in CI/CD, serverless functions, and edge features.
+
+**Key Features:**
+
+- Integrated build previews, serverless functions, and CDN-backed hosting
+- Developer-first workflow with Git-based deploys
+- Edge and performance features for scaling sites
+
+**Best For:** developers deploying Jamstack/static sites with integrated build & serverless tools
+
+---
+
 ### 🔗 Integration Platforms
 
 #### Zapier
@@ -446,6 +686,40 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 
 **Pricing:** $9-299/month
 **Best For:** Complex automations, data transformation
+
+---
+
+#### Pipedream
+
+> Integration platform for developers: build event-driven automations that run custom code and integrate with 1,000+ apps.
+
+**Key Features:**
+
+- Pre-built actions and event sources (1,000+ integrations)
+- Run Node.js/Python/Go/Bash in workflows
+- Free developer tier and paid plans
+- Destinations for S3, Snowflake, HTTP, and more
+- Community-contributed components and SDKs
+
+**Pricing:** Free tier available; paid tiers for higher limits
+**Best For:** Developers needing code-first integrations and event-driven automation
+
+---
+
+#### Parabola
+
+> Visual data automation platform for transforming spreadsheets, PDFs, and CSVs into repeatable workflows.
+
+**Key Features:**
+
+- Visual builder for ingestion, transformation, and outputs
+- Integrations with Google Sheets, Snowflake, APIs, and more
+- Templates and co-build onboarding
+- Audit trails and reusable flows
+- AI helpers for mapping and extraction
+
+**Pricing:** Free tier; paid plans and enterprise options
+**Best For:** Operators automating spreadsheet-heavy and data cleansing workflows
 
 ---
 
